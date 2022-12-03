@@ -32,5 +32,6 @@ butInstall.addEventListener("click", async () => {
 
 // see if the app is already installed
 window.addEventListener("appinstalled", (event) => {
+    // make it impossible to install again
   window.deferredPrompt = null;
 });

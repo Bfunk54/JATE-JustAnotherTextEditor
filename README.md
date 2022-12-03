@@ -50,7 +50,8 @@ To test, navigate to 'localhost:3000' in your favorite browser and you should be
 
 ## Screenshots
 #
-![]()
+![](./images/jate1.png)
+![](./images/jate2.png)
 <p align="right">(<a href="mit-license">back to top</a>)</p>
 
 ## Questions

@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "start": "concurrently \"cd server && npm run server\" \"cd client && npm run dev\"",
+    "start": "concurrently \"npm run build\" \"cd server && npm run server\" \"cd client && npm run dev\"",
     "start:prod": "concurrently \"npm run build\" \"cd server && npm run server\" \"cd client && npm run dev\"",
     "server": "cd server nodemon server.js --ignore client",
     "build": "cd client && npm run build",

@@ -64,5 +64,5 @@ Email me with any questions: ben_fein@icloud.com
 #
 [JATE-JustAnotherTextEditor]()
 #
-[Github Repo]()
+[Github Repo](https://github.com/Bfunk54/JATE-JustAnotherTextEditor)
 <p align="right">(<a href="#mit-license">back to top</a>)</p>

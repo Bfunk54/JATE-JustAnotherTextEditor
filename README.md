@@ -62,7 +62,7 @@ Email me with any questions: ben_fein@icloud.com
 
 ## Links
 #
-[JATE-JustAnotherTextEditor]()
+[JATE-JustAnotherTextEditor](https://jate-anothertexteditor.herokuapp.com/)
 #
 [Github Repo](https://github.com/Bfunk54/JATE-JustAnotherTextEditor)
 <p align="right">(<a href="#mit-license">back to top</a>)</p>

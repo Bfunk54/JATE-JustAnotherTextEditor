@@ -2,6 +2,7 @@
 import { getDb, putDb } from "./database";
 import { header } from "./header";
 
+// Export the Editor class as the default
 export default class {
   constructor() {
     const localData = localStorage.getItem("content");
@@ -11,6 +12,7 @@ export default class {
       throw new Error("CodeMirror is not loaded");
     }
 
+    // set the values for the editor
     this.editor = CodeMirror(document.querySelector("#main"), {
       value: "",
       mode: "javascript",
